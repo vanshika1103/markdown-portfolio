@@ -1,4 +1,4 @@
-burger
-pizza
-sandwhich
-norway
+-burger
+-pizza
+-sandwhich
+-norway
